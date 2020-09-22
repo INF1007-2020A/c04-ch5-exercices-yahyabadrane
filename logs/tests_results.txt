@@ -10,13 +10,13 @@ FAIL: test_factorial (__main__.TestExercice)
 Traceback (most recent call last):
   File "test_exercice.py", line 62, in test_factorial
     'Mauvaise réponse'
-AssertionError: Lists differ: [0, 8, 63, 99] != [1, 6, 40320, 3628800]
+AssertionError: Lists differ: [None, None, None, None] != [1, 6, 40320, 3628800]
 
 First differing element 0:
-0
+None
 1
 
-- [0, 8, 63, 99]
+- [None, None, None, None]
 + [1, 6, 40320, 3628800] : Mauvaise réponse
 
 ======================================================================
