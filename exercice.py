@@ -41,7 +41,7 @@ def prime_integer_summation() -> int:
 
 
 def factorial(number: int) -> int:
-    return number * 
+    return number * number 
 
 
 def use_continue() -> None:
