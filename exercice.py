@@ -26,7 +26,7 @@ def is_prime_number(number):
     return True
 
 def prime_integer_summation() -> int:
-    prime = []
+    prime = [2, 3, 5]
     return 0
 
 def factorial(number: int) -> int:
