@@ -22,7 +22,7 @@ def is_prime_number(number):
     for i in range(2, number // 2)
         if number % i == 0
             return False
-    retu
+    return
 
 def prime_integer_summation() -> int:
     return 0
