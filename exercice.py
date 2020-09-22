@@ -35,6 +35,7 @@ def prime_integer_summation() -> int:
             prime.append(number)
 
         number += 1
+        
     return sum(prime)
 
 
@@ -44,7 +45,7 @@ def factorial(number: int) -> int:
     factorial_value = 1
     for i in range(2, number):
         factorial_value *= i
-        
+
     return factorial_value
 
 
