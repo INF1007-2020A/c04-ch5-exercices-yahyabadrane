@@ -32,7 +32,7 @@ def prime_integer_summation() -> int:
     number = 6
     while len(prime) < 100:
         if is_prime_number(number):
-            prime
+            prime.append(number)
     return 0
 
 def factorial(number: int) -> int:
