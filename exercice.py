@@ -36,6 +36,14 @@ def prime_integer_summation() -> int:
             prime.append(number)
     return 0
 
+def is_prime_number(number):
+    for i in range(2, number // 2)
+        if number % i == 0
+            return False
+
+    return True
+
+
 def factorial(number: int) -> int:
     return 0
 
