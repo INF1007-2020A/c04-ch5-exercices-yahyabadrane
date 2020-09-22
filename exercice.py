@@ -18,6 +18,7 @@ def use_prefixes() -> List[str]:
 
     return word_list
 
+
 def is_prime_number(number):
     for i in range(2, number // 2)
         if number % i == 0
