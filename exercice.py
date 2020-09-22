@@ -43,7 +43,7 @@ def prime_integer_summation() -> int:
 def factorial(number: int) -> int:
     factorial_value = 1
     for i in range(2, number)
-        factorial_value
+        factorial_value *= 1
     return 0
 
 
