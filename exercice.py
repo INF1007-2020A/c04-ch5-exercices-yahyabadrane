@@ -14,7 +14,7 @@ def use_prefixes() -> List[str]:
 
     word_list = []
     for pre in prefixes:
-        word
+        word_list.append
     return [""]
 
 
