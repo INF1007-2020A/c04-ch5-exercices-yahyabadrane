@@ -28,7 +28,7 @@ def is_prime_number(number):
 def prime_integer_summation() -> int:
     prime = [2, 3, 5]
 
-    while len(prime) < 
+    while len(prime) < 5
     return 0
 
 def factorial(number: int) -> int:
