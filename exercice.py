@@ -22,10 +22,11 @@ def is_prime_number(number):
     for i in range(2, number // 2)
         if number % i == 0
             return False
-            
+
     return True
 
 def prime_integer_summation() -> int:
+    
     return 0
 
 def factorial(number: int) -> int:
