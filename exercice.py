@@ -31,7 +31,7 @@ def prime_integer_summation() -> int:
 
     number = 6
     while len(prime) < 100:
-        is_prime_number
+        if is_prime_number
     return 0
 
 def factorial(number: int) -> int:
