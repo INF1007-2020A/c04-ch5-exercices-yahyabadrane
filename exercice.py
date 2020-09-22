@@ -26,7 +26,6 @@ def is_prime_number(number):
 
     return True
 
-
 def prime_integer_summation() -> int:
     prime = [2, 3, 5]
 
