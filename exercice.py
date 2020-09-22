@@ -27,7 +27,7 @@ def prime_integer_summation() -> int:
         if is_prime_number(number):
             prime.append(number)
 
-        number
+        number += 1
     return 0
 
 def is_prime_number(number):
