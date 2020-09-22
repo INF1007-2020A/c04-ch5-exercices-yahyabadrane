@@ -22,7 +22,7 @@ def use_prefixes() -> List[str]:
 def prime_integer_summation() -> int:
     return 0
 def is_prime_number(number):
-    for i in range(2)
+    for i in range(2, number)
 
 def factorial(number: int) -> int:
     return 0
