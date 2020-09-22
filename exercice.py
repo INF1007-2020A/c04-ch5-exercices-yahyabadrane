@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+import
 
 from typing import List
 
@@ -25,7 +25,7 @@ def is_prime_number(number):
 
     return True
 
-    
+
 def prime_integer_summation() -> int:
     prime = [2, 3, 5]
 
